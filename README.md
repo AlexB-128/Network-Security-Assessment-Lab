@@ -17,7 +17,7 @@ Configured Wazuh SIEM/XDR server on Ubuntu with Wazuh agent configured on an Ubu
 
 # Investigation
 
-## Observations
+### Observations
 
 - An Nmap scan of TCP/22 did not generate a Wazuh security alert.
 - An SSH connection attempt alone didn't generate a Wazuh security alert; failed authentication attempts generated multiple alerts.
